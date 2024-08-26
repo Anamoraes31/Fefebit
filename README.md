@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 💙
 
- Me chamo Guilherme Francisco Batista
+ Me chamo Ana Clara Moraes Leme Alves 
 
  -Estou estudando no Alura
  -Estou me desenvolvendo em: JavaScript
